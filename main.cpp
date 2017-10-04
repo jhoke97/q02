@@ -24,15 +24,9 @@ int main()
     for(int j = 0; j < wordGrid[j].size(); j++)
     {
       cout << "Row " << i << " Column " << j << " is " << wordGrid[i][j]; 
-    
     }
-
   }
-  
-
-
-
- return 0;
+  return 0;
 }
 
 
